@@ -1,2 +1,2 @@
 # Relaxer
-Relaxer one page web application created by using vanilla javascript 
+Relaxation one page web application Relaxer created by using vanilla javascript 
